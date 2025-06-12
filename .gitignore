@@ -1,0 +1,24 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+mondly_env/
+Pipfile.lock
+
+# Output and logs
+*.log
+*.out
+
+# Misc
+*.bak
+*.swp
+.idea/
